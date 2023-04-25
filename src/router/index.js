@@ -21,7 +21,7 @@ const routes = [
         children:[
             {
                 path:"/discover",
-                element:<Navigate to="/discover/recommends"/>
+                element:<Navigate to="/discover/playlist"/>
             },
             {
                 path:"/discover/recommends",
